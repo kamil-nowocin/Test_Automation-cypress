@@ -1,0 +1,5 @@
+{
+	"env": {
+		"allureResultsPath": "allure-results"
+	}
+}
